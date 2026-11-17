@@ -1,0 +1,12 @@
+Nombre del alumno: Xavier Alessandro Ramírez Arrenquín
+
+Fecha: 17 de noviembre de 2026
+
+Objetivo de la actividad:
+Aprender a utilizar Git y GitHub mediante la creación
+de repositorios, ramas, commits y Pull Requests.
+
+¿Qué es un Pull Request?
+Es una solicitud que permite proponer cambios realizados
+en una rama para que sean revisados y posteriormente
+integrados en otra rama del proyecto.
